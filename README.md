@@ -9,3 +9,8 @@ Install all necessary requirment for python (if not already done)
 Navigate to the Dir where file is saved
 Run the program by running following command
 sudo python3 project-one.py
+
+Link for youtube video
+https://www.youtube.com/watch?v=dHg1NqKx484&feature=youtu.be
+
+
