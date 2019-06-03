@@ -5,6 +5,7 @@ In the project I have made the connection to the socket, retrieved ip and fully 
 This was build in ubuntu (linux platform)
 
 Instructions for Project One:
+
 Download the project-one.py file and save it.
 Install all necessary requirment for python (if not already done)
 Navigate to the Dir where file is saved
@@ -16,11 +17,15 @@ Link for youtube video
 https://www.youtube.com/watch?v=dHg1NqKx484&feature=youtu.be
 
 Instructions for Project Two:
+
 Download the project-two.py file and save it.
 Install all necessary requirment for python (if not already done)
 Navigate to the Dir where downloaded file is saved
 Run the program (downloaded file) by running the following command
 sudo python3 project-two.py 
 verify the results
+
+Link for youtube video
+https://www.youtube.com/watch?v=YZzEPMoZARw&t=23s
 
 
