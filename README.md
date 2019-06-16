@@ -14,7 +14,16 @@ sudo python3 project-one.py
 verify the results from the video
 
 Link for youtube video
+https://www.youtube.com/watch?v=YZzEPMoZARw&t=23s
+
+
+Link for youtube video
 https://www.youtube.com/watch?v=dHg1NqKx484&feature=youtu.be
+
+
+project-three
+
+https://www.youtube.com/watch?v=hgAPyFhtaLI&feature=youtu.be
 
 Instructions for Project Two:
 
